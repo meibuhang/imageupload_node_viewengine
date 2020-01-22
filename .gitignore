@@ -1,0 +1,9 @@
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+<<<<<<< HEAD
+=======
+node_modules
+>>>>>>> d47f4b79d458d852fe1624a36044b5ad4b9941fa
